@@ -1,7 +1,7 @@
 import random
 
 # List of hangman words
-hangman_words = ['python', 'programming', 'code', 'algorithm', 'development']
+hangman_words = ['python', 'tuples', 'code', 'zindua', 'lists' 'isaac' 'dictionaries' 'school'] 
 
 # Choose a random word from the list
 word = random.choice(hangman_words)
